@@ -40,8 +40,21 @@ q:before, q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  cursor: pointer;
+  transform: rotate(90deg);
+  transform-origin: center
+  
 }
 
 ab{
-  background: red
+  cursor: pointer;
+  position: fixed;
+  background: red !important;
+  position: a;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  text-align: 
 }
